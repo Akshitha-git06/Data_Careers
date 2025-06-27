@@ -1,4 +1,7 @@
 # Data_Careers
+Power BI dashboard visualizing global trends in data careers, including roles, salaries, skills, and education.
+
+---
 
 # 💼 Data Careers Dashboard | Power BI Project
 
@@ -60,6 +63,14 @@ This interactive dashboard was built using **Power BI** to help users and decisi
 
 ---
 
+## 🚀 How to View the Report
+
+1. Download and install [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
+2. Clone this repository or download the `.pbix` file.
+3. Open `data careers.pbix` in Power BI Desktop to explore the visuals and interact with filters.
+
+---
+
 # Connect With Me
 
 If you enjoyed this project or have feedback, feel free to connect with me!
@@ -71,11 +82,3 @@ If you enjoyed this project or have feedback, feel free to connect with me!
 ---
 
 ## Thank you for checking out my project!
-
-## 🚀 How to View the Report
-
-1. Download and install [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
-2. Clone this repository or download the `.pbix` file.
-3. Open `data careers.pbix` in Power BI Desktop to explore the visuals and interact with filters.
-
----
